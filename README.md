@@ -1,10 +1,17 @@
 # Industrial IoT Predictive Maintenance System
 
+## Table of Contents
+- [Description](#description)
+- [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
+- [Dashboard](#dashboard)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+
 ## Description
 A system to monitor industrial machines’ vibration, temperature, and pressure, predicting failures before they happen. This helps reduce downtime and maintenance costs by proactively identifying potential issues.
-![GitHub repo size](https://img.shields.io/github/repo-size/redbeat3000/PredictiveMaintenance) 
-![Last commit](https://img.shields.io/github/last-commit/redbeat3000/PredictiveMaintenance) 
-![License](https://img.shields.io/github/license/redbeat3000/PredictiveMaintenance)
 
 ## Tech Stack
 - **Hardware:** ESP32, Vibration Sensor, Temperature Sensor  
@@ -106,5 +113,19 @@ Dashboard displays live metrics from your machines.
 The dashboard displays real-time machine vibration and temperature data via MQTT.  
 - Open `index.html` in a browser to view metrics.  
 - For live updates, `dashboard.js` connects to the MQTT broker and updates the UI.
+
+## Lisence
+MIT License
+
+Copyright (c) 2025 Blessing Nyaberi Hamisi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[full MIT text continues...]
 
 
