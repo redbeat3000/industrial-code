@@ -9,6 +9,15 @@
 - [Dashboard](#dashboard)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
+# Industrial Code
+
+![Build Status](https://github.com/redbeat3000/industrial-code/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/redbeat3000/industrial-code)
+![Issues](https://img.shields.io/github/issues/redbeat3000/industrial-code)
+![Pull Requests](https://img.shields.io/github/issues-pr/redbeat3000/industrial-code)
+![Last Commit](https://img.shields.io/github/last-commit/redbeat3000/industrial-code)
+![Contributors](https://img.shields.io/github/contributors/redbeat3000/industrial-code)
+![Repo Size](https://img.shields.io/github/repo-size/redbeat3000/industrial-code)
 
 ## Description
 A system to monitor industrial machines’ vibration, temperature, and pressure, predicting failures before they happen. This helps reduce downtime and maintenance costs by proactively identifying potential issues.
