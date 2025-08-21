@@ -145,7 +145,7 @@ To keep things smooth, please follow these steps:
 
 ---
 
-### Contribution Guidelines 
+### Contribution Quicklinks 
 - [Open Issues](../../issues)  
 - [Pull Requests](../../pulls)  
 
