@@ -121,8 +121,35 @@ Dashboard displays live metrics from your machines.
 The dashboard displays real-time machine vibration and temperature data via MQTT.  
 - Open `index.html` in a browser to view metrics.  
 - For live updates, `dashboard.js` connects to the MQTT broker and updates the UI.
+## Contribution Guidelines
 
-## Lisence
+We welcome contributions from the community! 🎉  
+To keep things smooth, please follow these steps:
+
+1. **Fork the repository**  
+   Click the "Fork" button on the top right of this repo.
+
+2. **Create a feature branch**  
+   Run `git checkout -b feature/your-feature-name`
+
+3. **Commit your changes**  
+   Write clear commit messages, e.g. `git commit -m "Add: short description of feature"`
+
+4. **Push to your branch**  
+   Run `git push origin feature/your-feature-name`
+
+5. **Open a Pull Request**  
+   Go to the original repo and click "New Pull Request".  
+   Explain what you’ve changed and why.  
+   Tag any related issues (e.g., `Closes #12`).  
+
+---
+
+### Contribution Guidelines 
+- [Open Issues](../../issues)  
+- [Pull Requests](../../pulls)  
+
+## License
 MIT License
 
 Copyright (c) 2025 Blessing Nyaberi Hamisi
