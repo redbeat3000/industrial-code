@@ -10,7 +10,6 @@
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 # Stats
-
 ![License](https://img.shields.io/github/license/redbeat3000/industrial-code)
 ![Issues](https://img.shields.io/github/issues/redbeat3000/industrial-code)
 ![Pull Requests](https://img.shields.io/github/issues-pr/redbeat3000/industrial-code)
